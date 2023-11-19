@@ -42,7 +42,7 @@ The results of the models are presented in the corresponding notebooks, highligh
 To get started with this project, clone the repository and navigate to the respective directories to access the Jupyter notebooks and the dataset:
 
 ```bash
-git clone https://github.com/julioclerio/ml-svm
+git clone https://github.com/julioclerio/svm_regressor
 # Run the Jupyter notebooks
 cd ml-svm/notebooks
 
