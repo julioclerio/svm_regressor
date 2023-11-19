@@ -44,7 +44,7 @@ To get started with this project, clone the repository and navigate to the respe
 ```bash
 git clone https://github.com/julioclerio/svm_regressor
 # Run the Jupyter notebooks
-cd ml-svm/notebooks
+cd svm_regressor/notebooks
 
 # Access the dataset for your analyses
-repository/german_credit_data.csv
+repository/house_prices.csv
